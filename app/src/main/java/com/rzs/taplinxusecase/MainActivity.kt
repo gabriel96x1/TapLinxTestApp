@@ -1,4 +1,4 @@
-package com.code.taplinxtestapp
+package com.rzs.taplinxusecase
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
